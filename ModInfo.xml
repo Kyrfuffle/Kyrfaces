@@ -1,6 +1,6 @@
 <mod displayName="Kyrfaces" 
      unique="Kyrfaces" 
-     description="A mod that "improves" the relationship icons." 
+     description="A mod that ''improves'' the relationship icons." 
      installerSystemVersion="1.0.1.2" 
      hasCustomInstaller="false" 
      dllsBuild="2.5.358.0">

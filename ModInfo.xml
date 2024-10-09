@@ -4,4 +4,5 @@
      installerSystemVersion="1.0.1.2" 
      hasCustomInstaller="false" 
      dllsBuild="2.5.358.0">
+<prerequisite game="GalacticAdventures">Kyrfaces.package</prerequisite>
 </mod>

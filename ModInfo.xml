@@ -1,7 +1,18 @@
-<mod displayName="Kyrfaces" unique="Kyrfaces" description="A mod that replaces the relationship faces with custom ones."  installerSystemVersion="1.0.1.2" hasCustomInstaller="true" isExperimental="false" dllsBuild="2.5.290">
+<mod displayName="Kyrfaces"
+	unique="Kyrfaces"
+	description="A mod that 'improves' the relationship face icons."
+	installerSystemVersion="1.0.1.2"
+	hasCustomInstaller="true"
+	isExperimental="false"
+	dllsBuild="2.5.290">
 
-	<component unique="Kyrfaces" displayName="Kyrfaces" description="the" game="GalacticAdventures" defaultChecked="true">Kyrfaces.package</component>
+	<component unique="Kyrfaces"
+	displayName="hover for a surprise"
+	description="Boo"
+	game="GalacticAdventures"
+	defaultChecked="true">
+	Kyrfaces.package</component>
 
-	<prerequisite game="GalacticAdventures">Kyrfaces.package</prerequisite>
-
+	<prerequisite game="GalacticAdventures">
+	Kyrfaces.package</prerequisite>
 </mod>

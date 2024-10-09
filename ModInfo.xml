@@ -2,7 +2,7 @@
      unique="Kyrfaces" 
      description="A mod that ''improves'' the relationship icons." 
      installerSystemVersion="1.0.1.2" 
-     hasCustomInstaller="false" 
+     hasCustomInstaller="true" 
      dllsBuild="2.5.358.0">
 <prerequisite game="GalacticAdventures">Kyrfaces.package</prerequisite>
 </mod>
